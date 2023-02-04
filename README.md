@@ -1,16 +1,26 @@
 # currencybase
 
-A new Flutter project.
+### Heyyo Iam [Tharaniesh](https://www.instagram.com/__thaxx__/). This is a Flutter project in which i fetched values of bitcoin and sorted it according to analytics😊.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+Have a look on it. https://github.com/Tharaniesh3/Currencybase
 
-A few resources to get you started if this is your first Flutter project:
+## <u>Social Profiles</u> :
+[Instagram](https://www.instagram.com/__thaxx__/)
+<br>
+<br>
+[Twitter](https://twitter.com/_Tharaniesh_)
+<br>
+<br>
+[Github](https://github.com/Tharaniesh3/)
+<br>
+<br>
+[Linked In](https://www.linkedin.com/in/tharaniesh-p-r-1429a3171/)
+<br>
+<br>
+[Email ID](mailto:www.tharanieshmarvel@gmail.com)
+<br> 
+<br>
+[Click Here To Know More👈](https://tharaniesh3.github.io/website/)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
